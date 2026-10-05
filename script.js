@@ -63,7 +63,7 @@ const lyrics = [
   { time: 103.5, text: "Un hombre sin vista" },
   { time: 105.0, text: "Antes de ti, yo no era nada" },
   { time: 107.0, text: "No tenia nada" },
-  { time: 109.0, text: "Solo tenía un beso, una caricia" },
+  { time: 108.0, text: "Solo tenía un beso, una caricia" },
   { time: 112.0, text: "Una canción que me hizo llorar" },
   { time: 113.5, text: "Y todas las drogas que me he consumido" },
   { time: 115.0, text: "Nunca me elevaron más alto" },
@@ -96,8 +96,8 @@ const lyrics = [
   { time: 198.0, text: "La primera vez que nos conocimos" },
   { time: 207.0, text: "No hay nada como la primera vez" },
   { time: 210.0, text: "La primera vez que nos conocimos" },
-  { time: 213.0, text: "Nada me haría sentir más especial" },
-  { time: 215.0, text: "Que volver a descubrir tus ojitos, por eso..." }
+  { time: 213.0, text: "No hay nada más especial" },
+  { time: 216.0, text: "Que volver a descubrir tus ojitos, por eso..." }
 ];
 
 const flowers = ["🌸", "🌺", "🌷", "🪻", "🌼", "💠", "🌹", "🩵"];
