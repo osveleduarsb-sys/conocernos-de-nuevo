@@ -52,7 +52,23 @@ const lyrics = [
   { time: 67.0, text: "Choqué mi auto " },
   { time: 69.0, text: "Oh bebé, pero estaba volando" },
   { time: 71.0, text: "Y hablé con Dios, el no pudo llevarme tan alto" },
-  { time: 75.0, text: "Que la primera vez que nos conocimos" }
+  { time: 75.0, text: "Que la primera vez que nos conocimos" },
+  { time: 78.0, text: "No hay nada como la primera vez" },
+  { time: 81.0, text: "La primera vez que nos conocimos" },
+  { time: 85.0, text: "Esa noche, las estrellas se alinearon" },
+  { time: 91.0, text: "El cielo envío una señal" },
+  { time: 94.0, text: "Antes de ti, solo era una bengala en el cielo" },
+  { time: 98.0, text: "Un chico demasiado asustado como para jugar en la luz" },
+  { time: 102.0, text: "Un pintor sin colores" },
+  { time: 103.5, text: "Un hombre sin vista" },
+  { time: 106.0, text: "Antes de ti, yo no era nada" },
+  { time: 108.0, text: "No tenia nada" },
+  { time: 110.0, text: "Solo tenía un beso, una caricia" },
+  { time: 112.0, text: "Una canción que me hizo llorar" },
+  { time: 113.5, text: "Y todas las drogas que me he consumido" },
+  { time: 115.0, text: "Nunca me elevaron más alto" },
+  { time: 117.0, text: "Que la primera vez que nos conocimos" },
+  { time: 121.0, text: "No hay nada como la primera vez que nos conocimos" },
 ];
 
 const flowers = ["🌸", "🌺", "🌷", "🪻", "🌼", "💠", "🌹", "🩵"];
