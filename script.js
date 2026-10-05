@@ -63,7 +63,7 @@ const lyrics = [
   { time: 103.5, text: "Un hombre sin vista" },
   { time: 105.0, text: "Antes de ti, yo no era nada" },
   { time: 107.0, text: "No tenia nada" },
-  { time: 108.0, text: "Solo tenía un beso, una caricia" },
+  { time: 109.0, text: "Solo tenía un beso, una caricia" },
   { time: 112.0, text: "Una canción que me hizo llorar" },
   { time: 113.5, text: "Y todas las drogas que me he consumido" },
   { time: 115.0, text: "Nunca me elevaron más alto" },
