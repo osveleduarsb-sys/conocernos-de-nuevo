@@ -84,7 +84,7 @@ const lyrics = [
   { time: 166.0, text: "Un beso, una caricia" },
   { time: 168.0, text: "Una canción que me hizo llorar" },
   { time: 170.0, text: "Y todas las drogas que he consumido" },
-  { time: 172.0, text: "Nunca me elevaron mad alto" },
+  { time: 172.0, text: "Nunca me elevaron más alto" },
   { time: 174.0, text: "Que la primera vez que nos conocimos" },
   { time: 177.0, text: "No hay nada como la primera vez que nos conocimos" },
   { time: 181.0, text: "Choqué mi auto" },
@@ -96,7 +96,7 @@ const lyrics = [
   { time: 198.0, text: "La primera vez que nos conocimos" },
   { time: 207.0, text: "No hay nada como la primera vez" },
   { time: 210.0, text: "La primera vez que nos conocimos" },
-  { time: 214.0, text: "Mi ojitos..." }
+  { time: 214.0, text: "Te amo ojitos..." }
 ];
 
 const flowers = ["🌸", "🌺", "🌷", "🪻", "🌼", "💠", "🌹", "🩵"];
