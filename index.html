@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="theme-color" content="#03050d">
+  <title>¿Y si nos volvemos a conocer?</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main id="app">
+    <div class="ambient-glow"></div>
+    <div id="stars" class="stars"></div>
+    <div id="travel-layer" class="travel-layer"></div>
+    <div id="light-lines" class="light-lines"></div>
+
+    <section id="intro" class="intro">
+      <button id="roseButton" class="rose-button" aria-label="Iniciar el viaje">
+        <span class="rose-emoji" aria-hidden="true">🌹</span>
+      </button>
+
+      <h1>¿Y si nos volvemos<br> a conocer?</h1>
+      <p class="start-hint">toca para iniciar el viaje</p>
+    </section>
+
+    <section id="journey" class="journey" aria-hidden="true">
+      <div class="lyrics-wrap">
+        <p id="lyric" class="lyric"></p>
+      </div>
+      <div class="song-status">
+        <span class="music-dot"></span>
+        <span id="songStatus">viajando...</span>
+      </div>
+    </section>
+
+    <section id="ending" class="ending" aria-hidden="true">
+      <p>¿Y si nos volvemos<br> a conocer?</p>
+      <small>Quizás esta vez… nos quedemos.</small>
+      <button id="replay" class="replay">volver a empezar</button>
+    </section>
+
+    <audio id="music" preload="auto">
+      <source src="audio/the-first-time.mp3" type="audio/mpeg">
+    </audio>
+
+    <div id="noAudio" class="no-audio" hidden>
+      <span>♪</span>
+      <div>
+        <strong>Modo visual</strong>
+        <small>Agrega tu MP3 en <b>audio/the-first-time.mp3</b> para escuchar la canción.</small>
+      </div>
+    </div>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
